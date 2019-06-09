@@ -1,1 +1,2 @@
-'# start-typescript' 
+# Typescript 공부하기
+
